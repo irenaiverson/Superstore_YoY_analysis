@@ -47,6 +47,8 @@ No data cleaning or preprocessing was needed for this project.
 
 - Performance Breakdown by: Product Category, Customer Segment, Shipping Mode, State (both bar chart and filled map)
 
+- All visualizations include interactive tooltips that display detailed Year-over-Year (YoY) metrics, including percent change and actual values for both years
+
 ## Insignts & Findings (2024 vs. 2023)
 
 #### Sales
