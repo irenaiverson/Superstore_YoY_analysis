@@ -1,6 +1,51 @@
-# Superstore YoY Analysis
+# Superstore YoY Analysis - Tableau project
 
-## Insights & Findings (2024 vs. 2023)
+This project involved designing an interactive Year-over-Year (YoY) Performance Dashboard using Tableau Public, leveraging the widely-used sample dataset Superstore.xls. The goal was to allow users to explore annual performance changes across four key metrics — Sales, Profit, Orders, and Customers — and break them down by Category, Segment, Shipping Mode, and State.
+
+The dashboard is fully dynamic, with:
+
+- Year selector for toggling between different years
+
+- KPI buttons that switch metrics across all visualizations
+
+- YoY bar and map comparisons
+
+- Conditional formatting for performance trends (e.g., red bars for declines)
+
+- A hoverable info icon with dashboard instructions
+
+#### Dataset
+File: Superstore.xls
+
+Sheet Used: Orders
+
+Rows: 10,194
+
+Data Range: 2022 - 2024
+
+The dataset is pre-cleaned and includes fields such as:
+
+Order Date, Ship Date, Customer ID, Segment, State, Product Name, Sales, Profit, Quantity, Category, Sub-Category, Region, Ship Mode
+
+No data cleaning or preprocessing was needed for this project.## Insights & Findings (2024 vs. 2023)
+
+## Dashboard Features
+- Four KPIs tracked: Sales (Sum), Profit (Sum), Orders (Count), Customers (Distinct Count)
+
+- Year-over-Year Analysis:
+
+  a) Monthly trends with color-coded comparison bars
+
+  b) Summary metrics with % change and conditional arrows
+
+- Interactive Controls: Dropdown year selector
+
+- Metric switch buttons (Sales, Profit, Orders)
+
+- Performance Breakdown by: Product Category, Customer Segment, Shipping Mode, State (both bar chart and filled map)
+
+## Insignts & Findings
+
 #### Sales
 - Sales grew by 21.4%, reaching $745.6K in 2024.
 
