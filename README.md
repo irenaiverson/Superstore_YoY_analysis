@@ -20,7 +20,7 @@ The dashboard is fully dynamic, with:
 
 ## Dataset & Data Fields
 
-File: Superstore.xls
+File: Sample_Superstore_2024.xls
 
 Sheet Used: Orders
 
