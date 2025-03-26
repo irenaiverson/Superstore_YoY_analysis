@@ -1,4 +1,4 @@
-# Superstore YoY Analysis - Tableau project
+# Superstore YoY Performance Analysis - Tableau project
 
 This project involved designing an interactive Year-over-Year (YoY) Performance Dashboard using Tableau Desktop Public, leveraging the widely-used sample dataset Superstore.xls. The goal was to allow users to explore annual performance changes across four key metrics — Sales, Profit, Orders, and Customers — and break them down by Category, Segment, Shipping Mode, and State.
 
