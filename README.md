@@ -30,7 +30,7 @@ Data Range: 2022 - 2024
 
 The dataset is pre-cleaned and includes fields such as: Order Date, Ship Date, Customer ID, Segment, State, Product Name, Sales, Profit, Quantity, Category, Sub-Category, Region, Ship Mode
 
-No data cleaning or preprocessing was needed for this project.## Insights & Findings (2024 vs. 2023)
+No data cleaning or preprocessing was needed for this project.
 
 ## Dashboard Features
 - Four KPIs tracked: Sales (Sum), Profit (Sum), Orders (Count), Customers (Distinct Count)
@@ -47,7 +47,7 @@ No data cleaning or preprocessing was needed for this project.## Insights & Find
 
 - Performance Breakdown by: Product Category, Customer Segment, Shipping Mode, State (both bar chart and filled map)
 
-## Insignts & Findings
+## Insignts & Findings (2024 vs. 2023)
 
 #### Sales
 - Sales grew by 21.4%, reaching $745.6K in 2024.
