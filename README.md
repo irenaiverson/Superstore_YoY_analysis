@@ -1,2 +1,60 @@
-# superstore_YoY_analysis
-Tableau project showcasing a dynamic year-over-year performance analysis of Superstore data for 2022-2024, featuring interactive KPI switching, year selection, and visual insights by category, segment, shipping mode, and state.
+# Superstore YoY Analysis
+
+## Insights & Findings (2024 vs. 2023)
+#### Sales
+- Sales grew by 21.4%, reaching $745.6K in 2024.
+
+- Office Supplies and Technology led with YoY increases of 36.2% and 20.2% respectively.
+
+- Home Office segment accounted for over 52% of sales.
+
+- States like Washington (+230.8%), Florida (+94.4%), and North Carolina (+56.7%) showed exceptional growth, while Michigan and Ohio saw declines.
+
+#### Orders
+- Orders increased by 28.6%, from 1,340 to 1,723.
+
+- Growth was strongest in Technology (+36.9%) and Home Office (43.9%) segment.
+
+- Tennessee, Washington, and Florida led order growth by state.
+
+- First Class shipping saw the highest YoY order growth (+47.7%).
+
+#### Profit
+- Profit rose by 16.0%, totaling $95.9K.
+
+- Furniture and Corporate segment showed losses (-53.6%, -8.8% respectively).
+
+- Profit margins were strongest in Home Office (+39.8%) and Consumer segments.
+
+- Massive profit spikes occurred in states like Delaware (+519.8%), Minnesota (+508.2%), and Washington (+309.9%), while Indiana and Michigan declined.
+
+## Recommendations
+- Investigate Profitability in Underperforming Areas
+
+    Despite growth in sales and orders, profit lags behind in categories like Furniture and the Corporate segment, with losses in states such as Indiana and Michigan.
+
+    👉 Recommendation: Review discounting strategies, shipping costs, or product margins in those segments and regions.
+
+- Leverage High-Growth Regions for Expansion
+
+    States like Washington, Delaware, and Minnesota saw dramatic YoY profit gains.
+
+    👉 Recommendation: Analyze what’s driving success in those markets and replicate strategies in other regions.
+
+- Reallocate Marketing Budget Toward Home Office Segment
+
+    Home Office customers consistently drive top performance across sales, orders, and profit.
+
+    👉 Recommendation: Focus targeted promotions and loyalty efforts on this segment.
+
+- Evaluate Shipping Mode Efficiency
+
+    First Class shipping saw strong growth in both profit and order volume, while Same Day shipping had a sharp decline in profit.
+
+    👉 Recommendation: Review logistics and pricing strategies for Same Day fulfillment to improve profitability.
+
+- Monitor YoY Trends Monthly
+
+    Strong fluctuations across months highlight the importance of tracking KPIs monthly, not just annually.
+
+    👉 Recommendation: Set up periodic monthly reports.
