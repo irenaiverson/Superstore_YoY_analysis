@@ -1,6 +1,10 @@
 # Superstore YoY Analysis - Tableau project
 
-This project involved designing an interactive Year-over-Year (YoY) Performance Dashboard using Tableau Public, leveraging the widely-used sample dataset Superstore.xls. The goal was to allow users to explore annual performance changes across four key metrics — Sales, Profit, Orders, and Customers — and break them down by Category, Segment, Shipping Mode, and State.
+This project involved designing an interactive Year-over-Year (YoY) Performance Dashboard using Tableau Desktop Public, leveraging the widely-used sample dataset Superstore.xls. The goal was to allow users to explore annual performance changes across four key metrics — Sales, Profit, Orders, and Customers — and break them down by Category, Segment, Shipping Mode, and State.
+
+## Tableau Dashboard
+
+Explore the interactive visualization here: https://public.tableau.com/app/profile/irena.iverson/viz/SuperstorePerformanceAnalysisYoY/Dashboard 
 
 The dashboard is fully dynamic, with:
 
@@ -14,7 +18,8 @@ The dashboard is fully dynamic, with:
 
 - A hoverable info icon with dashboard instructions
 
-#### Dataset
+## Dataset & Data Fields
+
 File: Superstore.xls
 
 Sheet Used: Orders
@@ -23,9 +28,7 @@ Rows: 10,194
 
 Data Range: 2022 - 2024
 
-The dataset is pre-cleaned and includes fields such as:
-
-Order Date, Ship Date, Customer ID, Segment, State, Product Name, Sales, Profit, Quantity, Category, Sub-Category, Region, Ship Mode
+The dataset is pre-cleaned and includes fields such as: Order Date, Ship Date, Customer ID, Segment, State, Product Name, Sales, Profit, Quantity, Category, Sub-Category, Region, Ship Mode
 
 No data cleaning or preprocessing was needed for this project.## Insights & Findings (2024 vs. 2023)
 
@@ -103,3 +106,7 @@ No data cleaning or preprocessing was needed for this project.## Insights & Find
     Strong fluctuations across months highlight the importance of tracking KPIs monthly, not just annually.
 
     👉 Recommendation: Set up periodic monthly reports.
+
+SCREENSHOT
+   <img width="1195" alt="Picture 2025-03-25 at 5 00 23 PM" src="https://github.com/user-attachments/assets/e920dbfa-ed4b-41b3-8844-8e48fb34a04f" />
+
